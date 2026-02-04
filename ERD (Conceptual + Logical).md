@@ -1,7 +1,5 @@
 # ERD — Airline Reservation System (Single Airline: )
 
-This document provides the **Conceptual ERD (Chen)** and the **Logical ERD (tables/keys)** for a single-airline reservation system.
-
 ## 1) Conceptual ERD (Chen)
 
 ### 1.1 Entities
